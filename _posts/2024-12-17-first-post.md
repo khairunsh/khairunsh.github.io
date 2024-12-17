@@ -15,7 +15,7 @@ I'm thrilled to finally launch this site to document my journey as a software de
 
 In this space, I’ll be sharing blog-style posts about my experiences, challenges, and learnings as a **software engineer** working at a startup company in South Jakarta. I've been part of this journey for **6 years** now, and I’m proud to have contributed to projects like:
 
-- **[Houzcall](https://houzcall.com)** — where I build and maintain **native Android and iOS apps**.
+- **[Houzcall](https://houzcall.co.id)** — where I build and maintain **native Android and iOS apps**.
 - **[Kubikasi](https://kubikasi.id)** — where I focus on **native Android development**.
 
 All of these apps are built natively, without using cross-platform frameworks. Besides mobile development, I also play a role as a **backend development supervisor**—so I get to explore both sides of the development process.
@@ -34,7 +34,7 @@ If you’re curious about Jetpack Compose or considering similar migrations, sta
 
 That’s all for this introduction—thank you for taking the time to read it! It’s great to meet you, and I’m looking forward to sharing more with you here. 
 
-If you’d like to connect or chat, feel free to reach out to me via **email**. Let’s grow and learn together! 😊
+If you’d like to connect or chat, feel free to reach out to me via **[email](mailto:k.nashirin1910@gmail.com)**. Let’s grow and learn together! 😊
 
 ---
 
